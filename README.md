@@ -1,4 +1,4 @@
-# Pareto-based Bi-objective Ramp Metering with Reinforcement Learning
+# Efficiency vs. Revenue: Bi-objective Reinforcement Learning for Coordinated Ramp Metering
 
 A reinforcement learning framework for Pareto-based bi-objective ramp metering control on expressway networks, optimizing both traffic efficiency and revenue objectives.
 
@@ -95,8 +95,8 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{PBiRL,
-  author = {Kun Song},
-  title = {Pareto-based Bi-objective Ramp Metering with Reinforcement Learning},
+  author = {Zhandong Xu, Kun Song, Xiaobo Liu},
+  title = {Efficiency vs. Revenue: Bi-objective Reinforcement Learning for Coordinated Ramp Metering},
   year = {2025},
   url = {clone https://github.com/KunSongLab/PBiRL}
 }
