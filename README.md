@@ -96,7 +96,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{PBiRL,
   author = {Kun Song},
-  title = {Bi-objective Ramp Metering with Reinforcement Learning},
+  title = {Pareto-based Bi-objective Ramp Metering with Reinforcement Learning},
   year = {2025},
   url = {clone https://github.com/KunSongLab/PBiRL}
 }
