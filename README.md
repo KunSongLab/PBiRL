@@ -26,8 +26,8 @@ This repository implements a Pareto-based bi-objective deep Q-learning approach 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/KunSongLab/BiRL.git
-cd BiRL
+git clone https://github.com/KunSongLab/PBiRL.git
+cd PBiRL
 ```
 
 2. Install Python dependencies:
@@ -94,11 +94,11 @@ will be saved to the `results/` directory (auto-created during execution).
 If you use this code in your research, please cite:
 
 ```bibtex
-@software{BiRL,
+@software{PBiRL,
   author = {Kun Song},
   title = {Bi-objective Ramp Metering with Reinforcement Learning},
   year = {2025},
-  url = {clone https://github.com/KunSongLab/BiRL}
+  url = {clone https://github.com/KunSongLab/PBiRL}
 }
 ```
 
