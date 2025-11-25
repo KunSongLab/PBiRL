@@ -1,0 +1,416 @@
+{
+    "1": {
+        "location": [
+            104.18668380402576,
+            30.740691255260145
+        ],
+        "node_id": 80,
+        "source_node_osmid": 3,
+        "target_node_osmid": 5
+    },
+    "10": {
+        "location": [
+            104.10382205475126,
+            30.78751961851297
+        ],
+        "node_id": 2532,
+        "source_node_osmid": 77,
+        "target_node_osmid": 373
+    },
+    "11": {
+        "location": [
+            103.94417988387676,
+            30.75756472499412
+        ],
+        "node_id": 3354,
+        "source_node_osmid": 129,
+        "target_node_osmid": 135
+    },
+    "12": {
+        "location": [
+            103.93738383570046,
+            30.7471903276752
+        ],
+        "node_id": 3419,
+        "source_node_osmid": 130,
+        "target_node_osmid": 122
+    },
+    "13": {
+        "location": [
+            103.99346544532202,
+            30.782057787351846
+        ],
+        "node_id": 3731,
+        "source_node_osmid": 135,
+        "target_node_osmid": 345
+    },
+    "14": {
+        "location": [
+            104.11614741706933,
+            30.570475125205128
+        ],
+        "node_id": 4346,
+        "source_node_osmid": 170,
+        "target_node_osmid": 271
+    },
+    "15": {
+        "location": [
+            104.0381156935616,
+            30.57354642846864
+        ],
+        "node_id": 4391,
+        "source_node_osmid": 172,
+        "target_node_osmid": 22
+    },
+    "16": {
+        "location": [
+            103.93820357997926,
+            30.64406262902959
+        ],
+        "node_id": 4669,
+        "source_node_osmid": 181,
+        "target_node_osmid": 531
+    },
+    "17": {
+        "location": [
+            104.10672333464794,
+            30.786809664690082
+        ],
+        "node_id": 4853,
+        "source_node_osmid": 186,
+        "target_node_osmid": 512
+    },
+    "18": {
+        "location": [
+            104.07477957752512,
+            30.568647379123124
+        ],
+        "node_id": 5181,
+        "source_node_osmid": 215,
+        "target_node_osmid": 170
+    },
+    "19": {
+        "location": [
+            104.04953701016488,
+            30.5701913868616
+        ],
+        "node_id": 5253,
+        "source_node_osmid": 216,
+        "target_node_osmid": 215
+    },
+    "2": {
+        "location": [
+            104.20391871917242,
+            30.671243482456724
+        ],
+        "node_id": 623,
+        "source_node_osmid": 9,
+        "target_node_osmid": 310
+    },
+    "20": {
+        "location": [
+            104.04038454804163,
+            30.784686135990924
+        ],
+        "node_id": 5475,
+        "source_node_osmid": 227,
+        "target_node_osmid": 341
+    },
+    "21": {
+        "location": [
+            104.12314407001365,
+            30.78037100773183
+        ],
+        "node_id": 5765,
+        "source_node_osmid": 242,
+        "target_node_osmid": 76
+    },
+    "22": {
+        "location": [
+            104.13115234063424,
+            30.571817777793107
+        ],
+        "node_id": 5866,
+        "source_node_osmid": 246,
+        "target_node_osmid": 254
+    },
+    "23": {
+        "location": [
+            104.17425667373486,
+            30.75168642959874
+        ],
+        "node_id": 6130,
+        "source_node_osmid": 253,
+        "target_node_osmid": 29
+    },
+    "24": {
+        "location": [
+            104.09908221129176,
+            30.57129554850207
+        ],
+        "node_id": 6263,
+        "source_node_osmid": 254,
+        "target_node_osmid": 269
+    },
+    "25": {
+        "location": [
+            104.16094983427891,
+            30.762996048760847
+        ],
+        "node_id": 6327,
+        "source_node_osmid": 256,
+        "target_node_osmid": 242
+    },
+    "26": {
+        "location": [
+            104.06832872056117,
+            30.568331588384364
+        ],
+        "node_id": 6541,
+        "source_node_osmid": 270,
+        "target_node_osmid": 293
+    },
+    "27": {
+        "location": [
+            104.14708656776672,
+            30.57370573285644
+        ],
+        "node_id": 6703,
+        "source_node_osmid": 272,
+        "target_node_osmid": 251
+    },
+    "28": {
+        "location": [
+            104.20364269052983,
+            30.62265226179373
+        ],
+        "node_id": 7135,
+        "source_node_osmid": 297,
+        "target_node_osmid": 299
+    },
+    "29": {
+        "location": [
+            104.20525135622808,
+            30.65798993256074
+        ],
+        "node_id": 7307,
+        "source_node_osmid": 299,
+        "target_node_osmid": 466
+    },
+    "3": {
+        "location": [
+            104.02065311858445,
+            30.58056478432894
+        ],
+        "node_id": 1063,
+        "source_node_osmid": 22,
+        "target_node_osmid": 524
+    },
+    "30": {
+        "location": [
+            104.20290471274535,
+            30.615242727349113
+        ],
+        "node_id": 7399,
+        "source_node_osmid": 305,
+        "target_node_osmid": 307
+    },
+    "31": {
+        "location": [
+            104.20293402091735,
+            30.643982189863575
+        ],
+        "node_id": 7790,
+        "source_node_osmid": 310,
+        "target_node_osmid": 465
+    },
+    "32": {
+        "location": [
+            103.97554674871579,
+            30.780930020814925
+        ],
+        "node_id": 8432,
+        "source_node_osmid": 341,
+        "target_node_osmid": 346
+    },
+    "33": {
+        "location": [
+            104.05466022957926,
+            30.78688755600718
+        ],
+        "node_id": 8714,
+        "source_node_osmid": 345,
+        "target_node_osmid": 536
+    },
+    "34": {
+        "location": [
+            103.93025486032172,
+            30.689159530166705
+        ],
+        "node_id": 8936,
+        "source_node_osmid": 353,
+        "target_node_osmid": 53
+    },
+    "35": {
+        "location": [
+            103.95455356066844,
+            30.60867072205882
+        ],
+        "node_id": 9204,
+        "source_node_osmid": 364,
+        "target_node_osmid": 98
+    },
+    "36": {
+        "location": [
+            104.06833507409844,
+            30.787045693939966
+        ],
+        "node_id": 9377,
+        "source_node_osmid": 373,
+        "target_node_osmid": 227
+    },
+    "37": {
+        "location": [
+            104.20322244756963,
+            30.679318427349706
+        ],
+        "node_id": 10627,
+        "source_node_osmid": 466,
+        "target_node_osmid": 13
+    },
+    "38": {
+        "location": [
+            104.15922585641181,
+            30.577186451217585
+        ],
+        "node_id": 10774,
+        "source_node_osmid": 479,
+        "target_node_osmid": 480
+    },
+    "39": {
+        "location": [
+            104.16855712831949,
+            30.58117520340859
+        ],
+        "node_id": 10837,
+        "source_node_osmid": 481,
+        "target_node_osmid": 482
+    },
+    "4": {
+        "location": [
+            104.19107953448754,
+            30.736476620080673
+        ],
+        "node_id": 1247,
+        "source_node_osmid": 29,
+        "target_node_osmid": 9
+    },
+    "40": {
+        "location": [
+            104.1316245718606,
+            30.776502409089012
+        ],
+        "node_id": 11627,
+        "source_node_osmid": 512,
+        "target_node_osmid": 74
+    },
+    "41": {
+        "location": [
+            104.01276917323675,
+            30.585567351586608
+        ],
+        "node_id": 11778,
+        "source_node_osmid": 524,
+        "target_node_osmid": 527
+    },
+    "42": {
+        "location": [
+            104.02941386105793,
+            30.57639102794091
+        ],
+        "node_id": 11840,
+        "source_node_osmid": 526,
+        "target_node_osmid": 216
+    },
+    "43": {
+        "location": [
+            103.94680661495913,
+            30.615777853032785
+        ],
+        "node_id": 12187,
+        "source_node_osmid": 528,
+        "target_node_osmid": 181
+    },
+    "44": {
+        "location": [
+            104.01701177867699,
+            30.58226749186355
+        ],
+        "node_id": 12231,
+        "source_node_osmid": 529,
+        "target_node_osmid": 525
+    },
+    "45": {
+        "location": [
+            103.93123579040464,
+            30.681871258630036
+        ],
+        "node_id": 12423,
+        "source_node_osmid": 531,
+        "target_node_osmid": 489
+    },
+    "46": {
+        "location": [
+            104.07922346687491,
+            30.78666543109295
+        ],
+        "node_id": 12573,
+        "source_node_osmid": 537,
+        "target_node_osmid": 185
+    },
+    "5": {
+        "location": [
+            103.94208845300398,
+            30.63266335416446
+        ],
+        "node_id": 1606,
+        "source_node_osmid": 50,
+        "target_node_osmid": 364
+    },
+    "6": {
+        "location": [
+            103.93461670107602,
+            30.66921309068181
+        ],
+        "node_id": 1716,
+        "source_node_osmid": 53,
+        "target_node_osmid": 50
+    },
+    "7": {
+        "location": [
+            103.9303826770072,
+            30.697746446800306
+        ],
+        "node_id": 1767,
+        "source_node_osmid": 55,
+        "target_node_osmid": 57
+    },
+    "8": {
+        "location": [
+            103.93239235050426,
+            30.720182974869573
+        ],
+        "node_id": 2096,
+        "source_node_osmid": 65,
+        "target_node_osmid": 67
+    },
+    "9": {
+        "location": [
+            103.93314508175551,
+            30.728027129719877
+        ],
+        "node_id": 2253,
+        "source_node_osmid": 69,
+        "target_node_osmid": 63
+    }
+}

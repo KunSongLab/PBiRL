@@ -1,0 +1,57 @@
+{
+    "scenario_name": "RingFreeway",
+    "model_config": {
+        "model_num": 1,
+        "model_components": [
+            "ACTM"
+        ]
+    },
+    "route_config": {
+        "assign_method": "AON",
+        "max_path_num": 3
+    },
+    "network_config": {
+        "is_digraph": true,
+        "capsule_num": 1,
+        "ctm_region_num": 0,
+        "ltm_region_num": 0,
+        "actm_region_num": 1,
+        "region_id": [
+            0
+        ],
+        "region_names": [
+            "region_0"
+        ],
+        "ctm_region_id": [],
+        "ltm_region_id": [],
+        "actm_region_id": [
+            0
+        ]
+    },
+    "simulation_params": {
+        "time_interval": 4,
+        "talk_interval": 15,
+        "duration": 3,
+        "data_duration": 3,
+        "extra_capacity_discount": 0.7,
+        "min_distance": 15,
+        "length_t": 5,
+        "epsilon": 0.001,
+        "avg_vehicle_length": 4.3,
+        "jam_vehicle_per_cell_per_lane": 0.2,
+        "running_mode": "debug",
+        "record_obs_flag": true,
+        "record_traj_flag": true,
+        "record_vehicle_completed_time": false
+    },
+    "io_params": {
+        "nodes_filename": "scenarios/data/RingFreeway/nodes.csv",
+        "edges_filename": "scenarios/data/RingFreeway/edges.csv",
+        "demand_filename": "scenarios/data/RingFreeway/demands.csv",
+        "clusters_filename": "scenarios/data/RingFreeway/node_clusters.json",
+        "mfd_filename": "scenarios/data/RingFreeway/mfd_params.json",
+        "link_volume_savepath": "outputs/RingFreeway/link_volume.json",
+        "region_volume_savepath": "outputs/RingFreeway/region_volume.json",
+        "completed_vehicle_savepath": "outputs/RingFreeway/completed_vehicle_info.json"
+    }
+}

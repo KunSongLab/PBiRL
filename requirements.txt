@@ -1,0 +1,15 @@
+pandas==2.3.2
+geopandas==1.1.1
+gymnasium==1.1.1
+jupyter==1.1.1
+matplotlib==3.10.6
+networkx==3.3
+numpy==2.3.3
+osmnx==2.0.6
+pymoo==0.6.1.5
+ray==2.49.2
+scipy==1.16.2
+seaborn==0.13.2
+shapely==2.1.2
+sympy==1.13.3
+torch==2.7.1
